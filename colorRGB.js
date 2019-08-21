@@ -54,7 +54,6 @@ function setupButton() {
     resetButton.addEventListener('click', function () {
         reset();
     });
-    return i;
 }
 
 function reset() {
